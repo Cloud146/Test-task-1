@@ -21,6 +21,6 @@ FindElementsForSumTest(new List<uint> { 0, 1, 2, 3, 4, 5, 6, 7 }, 88, out start,
 
 ![image](https://user-images.githubusercontent.com/121448673/232237909-50fa20aa-f892-486f-8578-df8f1f4142ed.png)
 
-FindElementsForSumTest(new List<uint> { 6, 0, 4, 1, 5, 10 }, 11, out start, out end); 
+FindElementsForSumTest(new List<uint> { 6, 0, 4, 1, 5, 10 }, 11, out start, out end); //start будет равен 0 и end 4;
 
 ![image](https://user-images.githubusercontent.com/121448673/232237929-2238f457-9919-4211-aa6b-f5274432be90.png)
